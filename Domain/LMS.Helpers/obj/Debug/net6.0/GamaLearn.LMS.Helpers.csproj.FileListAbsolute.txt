@@ -1,0 +1,14 @@
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\GamaLearn.LMS.Helpers.deps.json
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\GamaLearn.LMS.Helpers.runtimeconfig.json
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\GamaLearn.LMS.Helpers.dll
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\GamaLearn.LMS.Helpers.pdb
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.AssemblyInfo.cs
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.dll
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\refint\GamaLearn.LMS.Helpers.dll
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.pdb
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\GamaLearn.LMS.Helpers.genruntimeconfig.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\ref\GamaLearn.LMS.Helpers.dll

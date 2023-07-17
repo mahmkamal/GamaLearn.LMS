@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GamaLearn.LMS.API.props" />
+</Project>

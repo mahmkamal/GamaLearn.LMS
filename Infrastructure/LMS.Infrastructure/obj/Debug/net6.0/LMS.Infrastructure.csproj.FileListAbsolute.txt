@@ -1,0 +1,5 @@
+D:\Projects\Library Managment System\Infrastructure\LMS.Infrastructure\obj\Debug\net6.0\LMS.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Infrastructure\LMS.Infrastructure\obj\Debug\net6.0\LMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Infrastructure\LMS.Infrastructure\obj\Debug\net6.0\LMS.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Infrastructure\LMS.Infrastructure\obj\Debug\net6.0\LMS.Infrastructure.AssemblyInfo.cs
+D:\Projects\Library Managment System\Infrastructure\LMS.Infrastructure\obj\Debug\net6.0\LMS.Infrastructure.csproj.CoreCompileInputs.cache

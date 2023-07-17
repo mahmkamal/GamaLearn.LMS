@@ -1,0 +1,17 @@
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\bin\Release\net6.0\GamaLearn.LMS.Services.Interfaces.deps.json
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\bin\Release\net6.0\GamaLearn.LMS.Services.Interfaces.runtimeconfig.json
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\bin\Release\net6.0\GamaLearn.LMS.Services.Interfaces.dll
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\bin\Release\net6.0\GamaLearn.LMS.Services.Interfaces.pdb
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\bin\Release\net6.0\GamaLearn.LMS.Models.dll
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\bin\Release\net6.0\GamaLearn.LMS.Models.pdb
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.AssemblyInfo.cs
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.csproj.CopyComplete
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.dll
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\refint\GamaLearn.LMS.Services.Interfaces.dll
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.pdb
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\GamaLearn.LMS.Services.Interfaces.genruntimeconfig.cache
+D:\Projects\Library Managment System\Business\LMS.Services.Interfaces\obj\Release\net6.0\ref\GamaLearn.LMS.Services.Interfaces.dll

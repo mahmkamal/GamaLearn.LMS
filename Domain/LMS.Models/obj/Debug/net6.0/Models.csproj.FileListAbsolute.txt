@@ -1,0 +1,42 @@
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\ref\Models.dll
+D:\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.deps.json
+D:\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+D:\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.dll
+D:\ARCOM Task\BackEnd\Models\bin\Debug\net6.0\Models.pdb
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.dll
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\refint\Models.dll
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.pdb
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+D:\ARCOM Task\BackEnd\Models\obj\Debug\net6.0\ref\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\bin\Debug\net6.0\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+C:\Users\Mahmoud Kamal\Desktop\Task\Back End\Microservices.WebApi\Microservices\Employee\Models\obj\Debug\net6.0\ref\Models.dll

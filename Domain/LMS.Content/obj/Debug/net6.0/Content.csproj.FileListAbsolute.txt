@@ -1,0 +1,30 @@
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.deps.json
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.dll
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.pdb
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.Patterns.resources
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.csproj.GenerateResource.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.AssemblyInfo.cs
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.dll
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\refint\Content.dll
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.pdb
+C:\Users\Mahmoud Kamal\Desktop\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\ref\Content.dll
+D:\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.deps.json
+D:\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.dll
+D:\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.pdb
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.csproj.AssemblyReference.cache
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.Patterns.resources
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.csproj.GenerateResource.cache
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.AssemblyInfoInputs.cache
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.AssemblyInfo.cs
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.csproj.CoreCompileInputs.cache
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.dll
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\refint\Content.dll
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.pdb
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\ref\Content.dll
+D:\ARCOM Task\BackEnd\Content\bin\Debug\net6.0\Content.runtimeconfig.json
+D:\ARCOM Task\BackEnd\Content\obj\Debug\net6.0\Content.genruntimeconfig.cache

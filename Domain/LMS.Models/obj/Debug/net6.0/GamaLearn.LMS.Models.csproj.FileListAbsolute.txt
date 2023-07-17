@@ -1,0 +1,14 @@
+D:\Projects\Library Managment System\Domain\LMS.Models\bin\Debug\net6.0\GamaLearn.LMS.Models.deps.json
+D:\Projects\Library Managment System\Domain\LMS.Models\bin\Debug\net6.0\GamaLearn.LMS.Models.runtimeconfig.json
+D:\Projects\Library Managment System\Domain\LMS.Models\bin\Debug\net6.0\GamaLearn.LMS.Models.dll
+D:\Projects\Library Managment System\Domain\LMS.Models\bin\Debug\net6.0\GamaLearn.LMS.Models.pdb
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.AssemblyInfo.cs
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.dll
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\refint\GamaLearn.LMS.Models.dll
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.pdb
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\GamaLearn.LMS.Models.genruntimeconfig.cache
+D:\Projects\Library Managment System\Domain\LMS.Models\obj\Debug\net6.0\ref\GamaLearn.LMS.Models.dll

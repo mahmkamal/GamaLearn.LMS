@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>efd0eb87-c439-4039-9dfd-521e16194ad4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="IdentityModel" Version="6.1.0" />
+    <PackageReference Include="LinqKit.EntityFramework" Version="1.2.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Exchange.WebServices" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.32.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Serilog" Version="3.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Business\LMS.Services.Interfaces\GamaLearn.LMS.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\..\..\Business\LMS.Services\GamaLearn.LMS.Services.csproj" />
+    <ProjectReference Include="..\..\..\Domain\LMS.Models\GamaLearn.LMS.Models.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\LMS.DataAccessLayer.Interfaces\GamaLearn.LMS.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\..\..\Infrastructure\LMS.DataAccessLayer\GamaLearn.LMS.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

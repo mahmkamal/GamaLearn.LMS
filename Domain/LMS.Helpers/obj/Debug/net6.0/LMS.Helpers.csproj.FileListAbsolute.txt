@@ -1,0 +1,14 @@
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\LMS.Helpers.deps.json
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\LMS.Helpers.runtimeconfig.json
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\LMS.Helpers.dll
+D:\Projects\Library Managment System\Domain\LMS.Helpers\bin\Debug\net6.0\LMS.Helpers.pdb
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.AssemblyInfo.cs
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.dll
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\refint\LMS.Helpers.dll
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.pdb
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\LMS.Helpers.genruntimeconfig.cache
+D:\Projects\Library Managment System\Domain\LMS.Helpers\obj\Debug\net6.0\ref\LMS.Helpers.dll

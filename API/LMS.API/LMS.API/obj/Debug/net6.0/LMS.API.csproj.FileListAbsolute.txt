@@ -1,0 +1,154 @@
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\appsettings.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.exe
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.deps.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.runtimeconfig.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.pdb
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.csproj.AssemblyReference.cache
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.AssemblyInfoInputs.cache
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.AssemblyInfo.cs
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.LMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.build.LMS.API.props
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMS.API.props
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMS.API.props
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\scopedcss\bundle\LMS.API.styles.css
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.csproj.CopyComplete
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\refint\LMS.API.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.pdb
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.genruntimeconfig.cache
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\obj\Debug\net6.0\ref\LMS.API.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mahmoud.waaer\OneDrive - AD Ports Group\Desktop\LMS.API\LMS.API\bin\Debug\net6.0\Serilog.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.AssemblyInfo.cs
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\appsettings.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.exe
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.deps.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.runtimeconfig.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.API.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\EntityFramework.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\IdentityModel.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Ninject.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Scrutor.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Serilog.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.CodeDom.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Content.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.DataAccessLayer.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.DataAccessLayer.Interfaces.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Domain.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Helpers.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Models.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Services.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Services.Interfaces.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Services.Interfaces.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Services.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Models.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.DataAccessLayer.Interfaces.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.DataAccessLayer.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Content.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Domain.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LMS.Helpers.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.LMS.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.build.LMS.API.props
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LMS.API.props
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LMS.API.props
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\scopedcss\bundle\LMS.API.styles.css
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.csproj.CopyComplete
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\refint\LMS.API.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.pdb
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.genruntimeconfig.cache
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\ref\LMS.API.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LinqKit.Core.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\LinqKit.EntityFramework.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\obj\Debug\net6.0\LMS.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\Library Managment System\API\LMS.API\LMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

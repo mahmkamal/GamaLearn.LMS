@@ -1,0 +1,16 @@
+D:\Projects\Library Managment System\Domain\LMS.Content\bin\Debug\net6.0\LMS.Content.deps.json
+D:\Projects\Library Managment System\Domain\LMS.Content\bin\Debug\net6.0\LMS.Content.runtimeconfig.json
+D:\Projects\Library Managment System\Domain\LMS.Content\bin\Debug\net6.0\LMS.Content.dll
+D:\Projects\Library Managment System\Domain\LMS.Content\bin\Debug\net6.0\LMS.Content.pdb
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.Patterns.resources
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.csproj.GenerateResource.cache
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.AssemblyInfo.cs
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.dll
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\refint\LMS.Content.dll
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.pdb
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\LMS.Content.genruntimeconfig.cache
+D:\Projects\Library Managment System\Domain\LMS.Content\obj\Debug\net6.0\ref\LMS.Content.dll

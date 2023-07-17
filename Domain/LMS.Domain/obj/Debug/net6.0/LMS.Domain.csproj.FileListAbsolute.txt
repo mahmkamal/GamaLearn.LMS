@@ -1,0 +1,15 @@
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.csproj.AssemblyReference.cache
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.AssemblyInfoInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.AssemblyInfo.cs
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Library Managment System\Domain\LMS.Domain\bin\Debug\net6.0\LMS.Domain.deps.json
+D:\Projects\Library Managment System\Domain\LMS.Domain\bin\Debug\net6.0\LMS.Domain.dll
+D:\Projects\Library Managment System\Domain\LMS.Domain\bin\Debug\net6.0\LMS.Domain.pdb
+D:\Projects\Library Managment System\Domain\LMS.Domain\bin\Debug\net6.0\LMS.Models.dll
+D:\Projects\Library Managment System\Domain\LMS.Domain\bin\Debug\net6.0\LMS.Models.pdb
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.csproj.CopyComplete
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.dll
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\refint\LMS.Domain.dll
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\LMS.Domain.pdb
+D:\Projects\Library Managment System\Domain\LMS.Domain\obj\Debug\net6.0\ref\LMS.Domain.dll
