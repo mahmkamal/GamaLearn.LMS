@@ -1,8 +1,8 @@
 # Gama Learn LMS
-this project was generated with  ASP.NET Core v0.6
+this project was generated with  ASP.NET Core v6.0
 # Info
 - this is a simple library management system with the ability to add,
-delete, and list books. The application should be built with a .NET Core 0.6 backend
+delete, and list books. The application should be built with a .NET Core backend
 ,and a angular 17 front-end and both were hosted on Azure.
 - I Used EF Core 0.6 with the Code First approach to create the database schema and utilize LINQ for data access. Implement middleware for logging and auth. Use the Repository Pattern for data access and utilize Dependency Injection. Document your APIs using Swagger
 
