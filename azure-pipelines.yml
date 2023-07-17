@@ -37,6 +37,3 @@ steps:
   inputs:
     command: 'build'
     
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'run'
