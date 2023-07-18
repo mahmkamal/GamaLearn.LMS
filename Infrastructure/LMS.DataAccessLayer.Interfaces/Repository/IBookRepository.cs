@@ -1,5 +1,5 @@
 ﻿using GamaLearn.LMS.Models.Entites;
-using GamaLearn.LMS.DataAccess.Interfaces;
+using GamaLearn.LMS.DataAccess.Interfaces.Repository;
 
 namespace GamaLearn.LMS.Domain.Repository
 {

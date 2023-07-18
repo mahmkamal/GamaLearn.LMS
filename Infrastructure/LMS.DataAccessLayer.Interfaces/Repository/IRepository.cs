@@ -1,5 +1,6 @@
 ﻿using System.Linq.Expressions;
-namespace GamaLearn.LMS.DataAccess.Interfaces
+
+namespace GamaLearn.LMS.DataAccess.Interfaces.Repository
 {
     public interface IRepository<TEntity> where TEntity : class, new()
     {

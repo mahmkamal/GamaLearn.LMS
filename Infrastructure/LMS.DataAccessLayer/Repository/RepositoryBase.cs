@@ -1,5 +1,5 @@
 ﻿using GamaLearn.LMS.DataAccess;
-using GamaLearn.LMS.DataAccess.Interfaces;
+using GamaLearn.LMS.DataAccess.Interfaces.Repository;
 using Microsoft.EntityFrameworkCore;
 using Ninject.Activation;
 using System;
