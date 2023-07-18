@@ -19,10 +19,10 @@ dotnet-ef migrations add InitialCreate --project "D:\Projects\Library Managment 
 ## Additional Information
 ### Azure Pipelines
 #### Continuous Integration
-[Gamalearn Build Pipeline](https://dev.azure.com/pipeline-link-goes-here)
+[Gamalearn Build Pipeline](https://dev.azure.com/MahmoudKamal-Projects/GamaLearn-LMS/_build?definitionId=4)
 
 #### Continous Deployment
-[Gamalearn Release Pipeline](https://dev.azure.com/release-link-goes-here)
+[Gamalearn Release Pipeline](https://dev.azure.com/MahmoudKamal-Projects/GamaLearn-LMS/_release?_a=releases&view=mine&definitionId=2)
 
 ### Unit Testing
 Testing was implemented for a few methods.
