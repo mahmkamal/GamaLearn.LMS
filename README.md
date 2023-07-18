@@ -18,6 +18,7 @@ Use Visual Studio starting from v19
 # Code Scaffolding
 
 - ## To Do Migration
+- run below command through Developer Power shel window (Terminal)
 ```
 dotnet-ef migrations add InitialCreate --project "D:\Projects\Library Managment System\Infrastructure\LMS.DataAccessLayer" --context LMSDbContext --verbose
 ```
